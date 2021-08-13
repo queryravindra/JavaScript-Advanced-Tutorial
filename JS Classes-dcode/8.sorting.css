@@ -1,0 +1,13 @@
+.table {
+    width: 60vw;
+    border-bottom: green 4px solid;
+}
+
+thead {
+    background: green;
+}
+
+tr {
+    height: 50px;
+    border-bottom: 2px solid greenyellow;
+}

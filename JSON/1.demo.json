@@ -1,0 +1,33 @@
+{
+    "users" :
+        [
+            {
+                "firstName" : "Ravindra",
+                "LastName"  : "Reddy",
+                "age"       :  22,
+                "hobbies"   : ["reading", "playing", "swimming"],
+                "friends"   : [
+                                  {
+                                      "firstName" : "Vishnu Vardhan",
+                                      "lastName"  : "Yadav"
+                                  }
+                              ]
+            },
+            {
+                "firstName" : "Phanindra",
+                "LastName"  : "Reddy",
+                "age"       :  24
+            }
+        ],
+    "subjects" :
+        [
+            {
+                "name" : "web development",
+                "id"   :  1
+            },
+            {
+                "name" : "JSON",
+                "id"   : 2
+            }
+        ]
+}

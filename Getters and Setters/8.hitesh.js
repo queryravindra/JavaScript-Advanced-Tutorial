@@ -1,0 +1,1 @@
+const rock = new User("rock", "rock@rock.com");
